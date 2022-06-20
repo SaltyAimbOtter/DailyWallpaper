@@ -1,4 +1,4 @@
-Simple Python script that downloads a wallpaper from Pexels.com and set's it as the Windows desktop background.
+Simple Python script that downloads a wallpaper from Pexels.com and sets it as the Windows desktop background.
 An API key must be passed as a command line argument.
 
 It is recommended to run this script upon login using the Windows Task Scheduler.
